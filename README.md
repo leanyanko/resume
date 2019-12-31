@@ -1,4 +1,4 @@
-# Resume Anna Leoneno
+# Resume Anna Leonenko
 
 ## Software Engineer
 
@@ -7,9 +7,9 @@ agnostic, with experience in Hardware Programming, Robotics and multiple creativ
 Organizer of AngularNYC, Chapter Leader of Women Who Code and Write/Speak/Code.
 
 ### Skills
-Back-end: Node.js, ExpressJs, Java SpringBoot
-Front-end: React, Angular; CSS, SCSS, HTML, JQuery, VanillaJS
-Database: PostgreSQL, MongoDB
+Back-end: Node.js, ExpressJs, Java SpringBoot;
+Front-end: React, Angular; CSS, SCSS, HTML, JQuery, VanillaJS;
+Database: PostgreSQL, MongoDB;
 
 ## Experience
 

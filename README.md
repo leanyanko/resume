@@ -7,16 +7,16 @@ agnostic, with experience in Hardware Programming, Robotics and multiple creativ
 Organizer of AngularNYC, Chapter Leader of Women Who Code and Write/Speak/Code.
 
 ### Skills
-Back-end: Node.js, ExpressJs, Java SpringBoot;
-Front-end: React, Angular; CSS, SCSS, HTML, JQuery, VanillaJS;
-Database: PostgreSQL, MongoDB;
+Back-end: Node.js, ExpressJs, Java SpringBoot; <br>
+Front-end: React, Angular; CSS, SCSS, HTML, JQuery, VanillaJS; <br>
+Database: PostgreSQL, MongoDB; <br>
 
 ## Experience
 
 ### Front End Developer - codelab.fun JUNE 2017 - NOW
-● Implement new front end functionality with typescript using Angular.
-● Add new content to existing educational milestones
-● Create and give informational talks about the project at the local tech meetups
+● Implement new front end functionality with typescript using Angular. <br>
+● Add new content to existing educational milestones <br>
+● Create and give informational talks about the project at the local tech meetups <br>
 
 ### Robotics Engineer, CS Teacher - Lyceum of Physics and Math #239. JUNE 2014 - JUNE 2016
 ● Deliver Engineering solutions for Educational Robots
